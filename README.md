@@ -4,6 +4,10 @@ We have constructed the Industry-Polarization-Dataset (IPD), a specular reflecti
 
 ![Example Image](images/Examples_of_workpieces_in_IPD.png)
 
+The experimental results on F12CCP Dataset are shown in the figure.
+
+![Experiment Results](images/Comparison_Results_on_F12CCP.png)
+
 **Our full dataset is publicly available.**
 The dataset download link will be made publicly available upon paper acceptance.
 
